@@ -4,6 +4,7 @@ I'm a Nathan based in Ghana. I have a passion for coding, I'm a fullstack develo
 
 <h1 align="center">Hi 👋, I'm Nathan Osei</h1>
 <h3 align="center">A passionate Fullstack developer from Ghana</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osei-nathan&label=Profile%20views&color=0e75b6&style=flat" alt="osei-nathan" /> </p>
