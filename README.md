@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **nathanoseihenebeng@gmail.com**
 
-- ⚡ Fun fact **I think I am funny and love watching football, my favorite player is Lionel Messi**
+- ⚡ Fun fact **I think I am funny :) and love watching football, my favorite player is Lionel Messi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
