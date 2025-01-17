@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm a Nathan based in Ghana. I have a passion for coding, I'm a fullstack developer that enjoys React, Django and django rest and also node and express. I love to do designs and I am into uio,ux also, With a background in wordpress.**
+**I'm a Nathan based in Ghana. I have a passion for coding, I'm a fullstack developer that enjoys React, Django and django rest and also node and express. I love to do designs and I am into ui/ux also, With a background in wordpress.**
 
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Osei-Nathan.io)
 <h1 align="center">Hellooooo 👋, I'm Nathan Osei</h1>
